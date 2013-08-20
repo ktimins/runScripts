@@ -408,6 +408,11 @@ sub avg (@) {
 
 
 ##############################################
+# You will need to import the "java.io.*" library
+# 
+# import java.io.*;
+#
+
 #
 # This should be used in the main of the program to pass the args to the java program correctly
 #
